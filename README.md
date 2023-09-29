@@ -1,4 +1,4 @@
-# Simple_Wiki_ChatBot
+# wiki_chatBot
 A basic chatbot that searches Wikipedia to find relevant articles in response to user questions, summarizes key facts, and returns them conversationally. Accesses and shares general knowledge from the online encyclopedia.
 
 #templates
